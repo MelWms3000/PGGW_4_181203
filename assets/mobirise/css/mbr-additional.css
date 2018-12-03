@@ -1701,11 +1701,17 @@ body {
 .cid-rbbnFsxGlc {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-color: #000000;
+  background-image: url("../../../assets/images/11blue-1-1200x1200.jpg");
 }
 .cid-rbbnFsxGlc .mbr-overlay {
   background-color: #5a31fb;
   background: linear-gradient(90deg, #5a31fb, #000000);
+}
+.cid-rbbnFsxGlc H2 {
+  color: #ffcccc;
+}
+.cid-rbbnFsxGlc .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-qX9w9Fn1Cs {
   padding-top: 60px;
