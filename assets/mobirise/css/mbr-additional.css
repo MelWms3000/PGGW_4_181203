@@ -1680,8 +1680,8 @@ body {
 }
 .cid-rbbCHpLPPJ {
   padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-bottom: 30px;
+  background-color: #000000;
 }
 .cid-rbbCHpLPPJ .container-fluid {
   padding: 0 3rem;
@@ -1712,6 +1712,26 @@ body {
 }
 .cid-rbbnFsxGlc .mbr-section-subtitle {
   color: #ffffff;
+}
+.cid-rbcOXFvxPj {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-rbcOXFvxPj .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rbcOXFvxPj .media-container-column {
+  padding: 0 2rem;
+}
+.cid-rbcOXFvxPj .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-rbcOXFvxPj .container-fluid {
+    padding: 0 1rem;
+  }
 }
 .cid-qX9w9Fn1Cs {
   padding-top: 60px;
